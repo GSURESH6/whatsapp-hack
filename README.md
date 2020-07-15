@@ -11,6 +11,6 @@
 
 ###$ git clone https://github.com/mirzaaltaf/whatsapp-hack
 
-###$ cd wp-hack
+###$ cd whatsapp-hack
 
-###$ python2 wp-hack.py
+###$ python2 whatsapp-hack.py
